@@ -3,9 +3,9 @@
 	top: 0;
 	right: 0;
 	position: fixed;
-	-webkit-box-shadow: 0 0 2px 2px #43857C;
-    -moz-box-shadow: 0 0 2px 2px #43857C;
-    box-shadow: 0 0 2px 2px #43857C;
+	-webkit-box-shadow: 0 0 2px 2px #212121;
+    -moz-box-shadow: 0 0 2px 2px #212121;
+    box-shadow: 0 0 2px 2px #212121;
 }
 #rp-bar div {
 	height: 100%;
@@ -14,8 +14,8 @@
 	position: relative;
 }
 #rp-read{
-	background-color: #43857C;
+	background-color: #212121;
 }
 #rp-unread{
-	background-color: #6BA099;
+	background-color: #FF3D00;
 }
